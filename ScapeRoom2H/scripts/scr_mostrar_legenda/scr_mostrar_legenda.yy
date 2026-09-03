@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_mostrar_legenda",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_mostrar_legenda",
+  "parent":{
+    "name":"ScapeRoom2H",
+    "path":"ScapeRoom2H.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
